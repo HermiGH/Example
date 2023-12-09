@@ -1,0 +1,5 @@
+{
+    "github-actions.workflows.pinned.workflows": [
+        ".github/workflows/azure-static-web-apps-calm-smoke-01f305603.yml"
+    ]
+}
